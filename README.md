@@ -1,2 +1,3 @@
 # tindog
-Tinder for Dogs!
+Landing Page for Tindog!
+(tinder for dogs)
